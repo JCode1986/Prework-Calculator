@@ -14,4 +14,4 @@
 ### Output
 
 ### How to run app
-* `dotnet run` on CLI or `f5`
+* `dotnet run` in CLI or `f5`hotkey button.
